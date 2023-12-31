@@ -33,7 +33,7 @@ The following **required** functionality is completed:
 
 
 ## Notes
---
+- imgur link -> https://imgur.com/ajW0FYF.gif
 
 ## License
 
