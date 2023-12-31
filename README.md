@@ -1,29 +1,39 @@
 # Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Affan Arif Khamse**
 
-**Name of your app** is an app that... [TODO] 
+**HelloIOS** is an app that... 
+- [x] Allows user to change screen color to a random color, with tap of button "Change"
 
-Time spent: **X** hours spent in total
+Time spent: **0.5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] Users are see a screen with three labels and a button
+- [x] Users can see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+![IOS Pre-Work](https://github.com/khamseaffan/HelloIOS/assets/66311597/9649c44b-0b0f-4e43-8351-d0b8d44f9210)
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
-## Notes
+### Uber
+- Able to Book cab from my home
+- I can live track my cab, and change schedule of pickup anytime
 
-Describe any challenges encountered while building the app.
+### Google Drive
+- Storing of files on cloud.
+- Can access my files on anytime with help of internet.
+- it reduces my dependability on my local machine for file access, i can see my files on someone else device, with my id.
+  
+
+
+## Notes
+--
 
 ## License
 
